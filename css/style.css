@@ -158,7 +158,17 @@ a {
   width: 280px;
   height: 280px;
   border-radius: 50%;
-  border: 1px solid var(--couleur-bordure);
+  
+ 
+  background-color: #ffffff; 
+  
+
+  border: 2px solid var(--couleur-bordure); 
+  
+ 
+  object-fit: contain; 
+  padding: 20px; 
+  box-sizing: border-box;
 }
 
 /* ---------- 5. Sections communes ---------- */
