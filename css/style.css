@@ -110,9 +110,7 @@ a {
   color: #ffff;
 }
 
-.menu a:hover {
-  color: var(--couleur-texte);
-}
+
 
 /* ---------- 4. Présentation (Zone Bleue) ---------- */
 .presentation {
