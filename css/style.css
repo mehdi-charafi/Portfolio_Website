@@ -200,8 +200,8 @@ a {
   border: 1px solid var(--couleur-bordure);
   border-radius: var(--rayon);
   font-weight: 600;
-  background-color: rgba(255, 255, 255, 0.1);
-  margin-top: 15px;
+  background-color: #ffff;
+  margin-top: 20px;
   width: 140px;
 }
 
@@ -267,7 +267,7 @@ a {
   font-family: var(--police);
   font-size: 16px;
   color: var(--couleur-texte);
-  background-color: transparent;
+  background-color: #ffff;
 }
 
 .reseaux {
