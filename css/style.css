@@ -75,6 +75,10 @@ a {
   cursor: pointer;
   border: 2px solid var(--couleur-bordure);
   box-shadow: 0 1px 4px #0F172A;
+
+}
+.bouton:hover {
+    transform: scale(1.01);
 }
 
 .lien {
@@ -285,3 +289,8 @@ a {
   box-shadow: 0 1px 4px #0F172A;
 }
 
+hr {
+  border: none;
+  height: 2px;
+  background-color: white;
+}
