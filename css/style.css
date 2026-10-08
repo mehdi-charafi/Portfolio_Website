@@ -86,6 +86,7 @@ a {
 .en-tete {
   background-color: var(--couleur-header-footer);
   border-bottom: 1px solid grey;
+  box-shadow: 0 1px 4px #0F172A;
 }
 
 .en-tete__contenu {
@@ -263,6 +264,7 @@ a {
   font-size: 16px;
   color: var(--couleur-texte);
   background-color: #ffff;
+  box-shadow: 0 1px 4px #0F172A;
 }
 
 .reseaux {
@@ -279,5 +281,7 @@ a {
   text-align: center;
   color: var(--couleur-texte-doux);
   background-color: var(--couleur-header-footer);
-  color: #ffff
+  color: #ffff;
+  box-shadow: 0 1px 4px #0F172A;
 }
+
