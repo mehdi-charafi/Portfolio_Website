@@ -84,7 +84,7 @@ a {
 /* ---------- 3. En-tête (Header Sombre) ---------- */
 .en-tete {
   background-color: var(--couleur-header-footer);
-  border-bottom: 1px solid var(--couleur-bordure);
+  border-bottom: 1px solid grey;
 }
 
 .en-tete__contenu {
@@ -270,7 +270,7 @@ a {
 /* ---------- 9. Pied de page (Footer Sombre) ---------- */
 .pied {
   padding: 32px 0;
-  border-top: 1px solid var(--couleur-bordure);
+  border-top: 1px solid grey;
   font-size: 15px;
   text-align: center;
   color: var(--couleur-texte-doux);
