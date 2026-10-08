@@ -156,16 +156,9 @@ a {
   width: 280px;
   height: 280px;
   border-radius: 50%;
-  
- 
   background-color: #ffffff; 
-  
-
   border: 2px solid var(--couleur-bordure); 
-  
- 
-  object-fit: contain; 
-  padding: 20px; 
+  object-fit: cover; 
   box-sizing: border-box;
 }
 
